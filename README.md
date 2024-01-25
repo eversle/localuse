@@ -1,0 +1,2 @@
+# localuse
+record daily
